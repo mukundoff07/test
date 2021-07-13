@@ -1,13 +1,3 @@
-# integrtr-diagrams
-
-A minimal diagrammatic tool built with HTML5 Canvas & React JS 
-
-Head over to [this blog](https://www.integrtr.com/building-diagram-tool-with-canvas-react/) for a step-by-step learning tutorial.
-
-![image](https://user-images.githubusercontent.com/19978437/94139195-de7c9200-fe86-11ea-8a28-17fcdfc4f268.png)
-
-
-
 
 ## Getting started
 
